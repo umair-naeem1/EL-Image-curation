@@ -4,7 +4,7 @@ Quality Electroluminescence Image Curation and Benchmark Dataset for Photovoltai
 
 ## Overview
 
-This repository contains the dataset and benchmarking framework, associated with our research on low-cost Electroluminescence (EL) imaging for photovoltaic (PV) defect diagnostics using a modified DSLR camera.
+This repository contains the dataset and  source code, experimental results and benchmarking framework associated with our research on low-cost Electroluminescence (EL) imaging for photovoltaic (PV) defect diagnostics using a modified DSLR camera.
 
 The project focuses on:
 - Cost-effective EL image acquisition
