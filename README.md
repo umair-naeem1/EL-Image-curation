@@ -25,3 +25,28 @@ The project focuses on:
 ## Evaluated Models
 
 - SVM, Random Forest (RF), MobileNetV2, ResNet18, ResNet34, DenseNet121
+
+
+## Citation
+
+If you use this dataset, code, or framework in your research, please cite:
+
+> U. Naeem, K. Chaddha, X. Li, S. Vahaji, and E. Asadi,  
+> “Quality Electroluminescence image curation and benchmark dataset for photovoltaic diagnostics,”  
+> *Solar Energy Materials and Solar Cells*, vol. 306, Art. no. 114555, 2026.  
+> https://doi.org/10.1016/j.solmat.2026.114555
+
+### BibTeX
+
+```bibtex
+@article{NAEEM2026114555,
+  title   = {Quality Electroluminescence image curation and benchmark dataset for photovoltaic diagnostics},
+  journal = {Solar Energy Materials and Solar Cells},
+  volume  = {306},
+  pages   = {114555},
+  year    = {2026},
+  issn    = {0927-0248},
+  doi     = {10.1016/j.solmat.2026.114555},
+  url     = {https://www.sciencedirect.com/science/article/pii/S092702482600396X},
+  author  = {Umair Naeem and Ken Chaddha and Xiaodong Li and Sara Vahaji and Ehsan Asadi},
+}
